@@ -1,13 +1,7 @@
-#property copyright "Tsantekidis Giorgos"
-#property version   "1.00"
-
-
 //43% long winning trades with avg profit 129, loss 162 eurusd 5min
 //20% short winning trades
 
 #include <trade/trade.mqh>
-
-
 
 input int Magic = 2024;
 input int MaPeriodS = 20;
